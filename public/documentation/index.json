@@ -1,0 +1,72 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Documentation on Hugo Zen theme",
+    "description": "Recent content in Documentation on Hugo Zen theme",
+    "home_page_url": "https://example.org/",
+    "feed_url": "https://example.org/documentation/index.json",
+    "language": "en-GB",
+    "icon": "https://example.org/apple-touch-icon.png",
+    "favicon": "https://example.org/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Your Name",
+            "url": "https://example.org/somepage",
+            "avatar": "https://example.org/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "Configuration",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://example.org/documentation/configuration/",
+            "url": "https://example.org/documentation/configuration/",
+            "authors": [
+                {
+                  "name": "Fredrik Jonsson"
+                }
+            ],
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Create a theme",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://example.org/documentation/create-theme/",
+            "url": "https://example.org/documentation/create-theme/",
+            "authors": [
+                {
+                  "name": "Fredrik Jonsson"
+                }
+            ],
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Installation",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://example.org/documentation/install/",
+            "url": "https://example.org/documentation/install/",
+            "authors": [
+                {
+                  "name": "Fredrik Jonsson"
+                }
+            ],
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Quickstart",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://example.org/documentation/quickstart/",
+            "url": "https://example.org/documentation/quickstart/",
+            "authors": [
+                {
+                  "name": "Fredrik Jonsson"
+                }
+            ],
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        }
+        ]
+}
