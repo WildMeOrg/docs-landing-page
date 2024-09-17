@@ -1,6 +1,0 @@
-{{ $class := .Get "class" -}}
-{{ $summary := .Get "summary" -}}
-<details{{ with $class }} class="{{ . }}"{{ end }}>
-{{ with $summary }}<summary>{{ . }}</summary>{{ end }}
-{{ .Inner | $.Page.RenderString (dict "display" "block") }}
-</details>

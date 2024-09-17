@@ -1,17 +1,55 @@
-{{ define "main" -}}
-<main class="main layout__main">
-<article class="single-view{{ with .Section }} single-view--{{ . | urlize }}{{ end }}">
-<header>
-<h1 class="title{{ if $.Param "submitted" | default false }} mb--xxs{{ end }}">{{ .Title }}</h1>
-{{ if $.Param "submitted" | default false }}{{ partial "submitted.html" . }}{{ end -}}
-{{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
-</header>
+{{ define "main" }}
+<main id="main">
 
-{{ .Content }}
+	<div class="container">
 
-{{ if $.Param "relatedposts" | default false }}{{ partial "related.html" . }}{{ end -}}
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
 
-{{ if ne .Lastmod .Date }}{{ partial "dates.html" . }}{{ end -}}
-</article>
+ 				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta">
+               <span class="posted-on">
+                  <time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+                    {{- .Date.Format "January 2, 2006" -}}
+                  </time>
+               </span>
+ 						</div>
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+					</div>
+				</article><!-- #post-## -->
+
+			</div>
+		</div> <!-- /row post  -->
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+					{{ if .Params.Share }}
+							{{ partial "sharethis.html" . }}
+					{{ end }}
+				</div>
+			</div>
+		</div> <!-- /row share -->
+		<div class="clearfix"></div>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+					{{ if .Params.Comments }}
+							{{ partial "disqus.html" . }}
+					{{ end }}
+				</div>
+			</div>
+		</div> <!-- /row comments -->
+		<div class="clearfix"></div>
+
+	</div>	<!-- /container -->
+
 </main>
-{{ end -}}
+{{ end }}

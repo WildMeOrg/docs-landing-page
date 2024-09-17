@@ -1,16 +1,38 @@
-{{ define "main" -}}
-<main class="main layout__main">
-<header>
-<h1 class="title">{{ .Title }}</h1>
-</header>
+{{ define "main" }}
+<main id="main">
 
-{{ .Content }}
+	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
 
-{{ $paginator := .Paginate (.Pages) -}}
-{{ range $paginator.Pages -}}
-{{ .Render "summary" }}
-{{ end -}}
+        {{ range .Paginator.Pages }}
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+               <span class="posted-on">
+                  <time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+                  {{- .Date.Format "January 2, 2006" -}}
+                  </time>
+               </span>
+						</div>
+						<h1 class="entry-title">
+						  <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+						</h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+					</div>
+				</article>
+        {{ end }}
+			</div>
+		</div>
 
-{{ partial "pagination.html" . }}
+		<center class="">
+			<ul class="pagination">
+        {{ template "_internal/pagination.html" . }}
+			</ul>
+		</center>
+	</div>	<!-- /container -->
+
 </main>
-{{ end -}}
+{{ end }}
