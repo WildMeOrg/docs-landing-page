@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Wild Me Docs</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content on Wild Me Docs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <copyright>Conservation X Labs</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
@@ -23,13 +23,6 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/mac.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;necessitatibus&#34;&gt;Necessitatibus&lt;/h3&gt;&#xA;&lt;p&gt;Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Vivamus Lacus Mauris</title>
-      <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title></title>
       <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,10 +31,10 @@
     </item>
     <item>
       <title>Codex</title>
-      <link>http://localhost:1313/home/services/service3/</link>
+      <link>http://localhost:1313/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/home/services/service2/</guid>
+      <description>&lt;p&gt;An experimental rewrite of the Wildbook re-ID platform. Planned for full sunset by the end of 2024. The repo is available for you to create your own project from, but we recommend you use Wildbook instead.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download HUGO template</title>
@@ -51,25 +44,32 @@
       <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Other tools</title>
-      <link>http://localhost:1313/home/services/service4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Scout</title>
-      <link>http://localhost:1313/home/services/service2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wildbook</title>
       <link>http://localhost:1313/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cleaning up large image sets. Annotating images both automatically and manually. Collaborating in local teams with an eye towards performance. Understanding species count, land usage, human-animal interactions, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scout ToDo lists</title>
+      <link>http://localhost:1313/post/scout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/scout/</guid>
+      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;scout&#34;&gt;Scout&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Annotation interface updates&lt;/li&gt;&#xA;&lt;li&gt;COCO format support&lt;/li&gt;&#xA;&lt;li&gt;ML models and marketplace&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wildbook</title>
+      <link>http://localhost:1313/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service3/</guid>
+      <description>&lt;p&gt;Matching images of individual animals across time and space. Collaborating with researchers and citizen scientists across the globe. Understanding populations, social behaviors, genetics, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wildbook ToDo lists</title>
+      <link>http://localhost:1313/post/wildbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wildbook/</guid>
+      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;wildbook&#34;&gt;Wildbook&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Public API support&lt;/li&gt;&#xA;&lt;li&gt;Data integrity tools&lt;/li&gt;&#xA;&lt;li&gt;Front end updated to React&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wildbook-export&#34;&gt;Wildbook Export&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;More formats&lt;/li&gt;&#xA;&lt;li&gt;Greater customization of exports&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

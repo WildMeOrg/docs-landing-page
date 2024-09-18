@@ -1,9 +1,14 @@
 +++
-title = "Scout"
+title = "Codex"
+date = "2024"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+An experimental rewrite of the Wildbook re-ID platform. Planned for full sunset by the end of 2024. The repo is available for you to create your own project from, but we recommend you use Wildbook instead.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Docs](https://codex.docs.wildme.org)
+
+[Frontend Repo](https://github.com/WildMeOrg/codex-frontend)
+
+[Backend Repo](https://github.com/WildMeOrg/houston)

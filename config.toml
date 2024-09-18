@@ -1,21 +1,20 @@
 baseURL = "https://example.com/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Wild Me Docs"
 theme = "hugo-initio-main"
+copyright = "Conservation X Labs"
 
 [params]
     name = "Wild Me Docs"
     description = "For all the open source tools in the Wild Me suite"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2024
-    avatar = "images/guy.jpg"
+    address = "1066 31st St NW, Washington, DC, 20007"
+    avatar = "images/WildMe-Logo-05.svg"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
+    banner = "images/earth.png"
+    favicon = "images/WildMe-Logo-05.svg"
     DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    author = "Wild Me"
 
     showSubheader = false
     showServices = true
@@ -23,10 +22,14 @@ theme = "hugo-initio-main"
     showDownloads = false
     showClients = false
 
-    showFooterContact = true
+    showFooterContact = false
     showFooterFollowMe = true
     showFooterTextWidget = false
     showFooterFormWidget = false
+
+[[services.button]]
+    service1="https://wildbook.docs.wildme.org"
+
 
 [[menu.main]]
     name = "home"
@@ -49,57 +52,37 @@ theme = "hugo-initio-main"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://facebook.com/ConservationXLabs"
     icon = "fab fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/conservationx"
     icon = "fab fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/nickname"
+	url = "https://www.instagram.com/conservationxlabs/"
     icon = "fab fa-instagram"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/company/conservationxlabs/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/WildMeOrg"
     icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:some.email@somewhere.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    sharethis = true
-    network = "email"
+

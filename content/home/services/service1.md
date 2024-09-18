@@ -1,9 +1,12 @@
 +++
-title = "Wildbook"
+title = "Scout"
+date = "2023"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Cleaning up large image sets. Annotating images both automatically and manually. Collaborating in local teams with an eye towards performance. Understanding species count, land usage, human-animal interactions, and more.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Docs](https://scout.docs.wildme.org)
+
+[Repo](https://github.com/WildMeOrg/scout)

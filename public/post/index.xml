@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Posts on Wild Me Docs</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content in Posts on Wild Me Docs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <copyright>Conservation X Labs</copyright>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vivamus Lacus Mauris</title>
-      <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.&lt;/p&gt;</description>
+      <title>Scout ToDo lists</title>
+      <link>http://localhost:1313/post/scout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/scout/</guid>
+      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;scout&#34;&gt;Scout&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Annotation interface updates&lt;/li&gt;&#xA;&lt;li&gt;COCO format support&lt;/li&gt;&#xA;&lt;li&gt;ML models and marketplace&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wildbook ToDo lists</title>
+      <link>http://localhost:1313/post/wildbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wildbook/</guid>
+      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;wildbook&#34;&gt;Wildbook&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Public API support&lt;/li&gt;&#xA;&lt;li&gt;Data integrity tools&lt;/li&gt;&#xA;&lt;li&gt;Front end updated to React&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wildbook-export&#34;&gt;Wildbook Export&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;More formats&lt;/li&gt;&#xA;&lt;li&gt;Greater customization of exports&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -74,7 +74,7 @@
 				<div class="widget-body">
 					<p class="text-right">
                                                 {{ if .Site.Copyright }}
-                                                Copyright &copy; {{ .Site.Copyright }} <br>
+                                                Copyright &copy; {{ .Site.Copyright }} {{ time.Now.Year }}<br>
                                                 {{ else }}
                                                 Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
                                                 {{ end }}
