@@ -1,6 +1,6 @@
 +++
 title = "Codex"
-date = "2024"
+weight = "3"
 +++
 
 An experimental rewrite of the Wildbook re-ID platform. Planned for full sunset by the end of 2024. The repo is available for you to create your own project from, but we recommend you use Wildbook instead.

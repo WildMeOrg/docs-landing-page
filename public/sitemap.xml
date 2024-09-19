@@ -6,7 +6,13 @@
   </url><url>
     <loc>http://localhost:1313/home/downloads/download1/</loc>
   </url><url>
+    <loc>http://localhost:1313/home/services/service3/</loc>
+  </url><url>
     <loc>http://localhost:1313/home/recentworks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service2/</loc>
   </url><url>
     <loc>http://localhost:1313/home/downloads/</loc>
   </url><url>
@@ -18,23 +24,17 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/service2/</loc>
-  </url><url>
     <loc>http://localhost:1313/home/downloads/download2/</loc>
   </url><url>
     <loc>http://localhost:1313/home/</loc>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/service1/</loc>
-  </url><url>
     <loc>http://localhost:1313/post/scout/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/services/service3/</loc>
   </url><url>
     <loc>http://localhost:1313/post/wildbook/</loc>
   </url>

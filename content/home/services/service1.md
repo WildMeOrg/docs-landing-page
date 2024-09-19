@@ -1,6 +1,6 @@
 +++
 title = "Scout"
-date = "2023"
+weight = "2"
 +++
 
 Cleaning up large image sets. Annotating images both automatically and manually. Collaborating in local teams with an eye towards performance. Understanding species count, land usage, human-animal interactions, and more.

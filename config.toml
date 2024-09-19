@@ -27,10 +27,6 @@ copyright = "Conservation X Labs"
     showFooterTextWidget = false
     showFooterFormWidget = false
 
-[[services.button]]
-    service1="https://wildbook.docs.wildme.org"
-
-
 [[menu.main]]
     name = "home"
     url = "/"
