@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Wild Me Docs</title>
-    <link>http://localhost:1313/home/</link>
+    <link>https://docs.wildme.org/home/</link>
     <description>Recent content in Homes on Wild Me Docs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Conservation X Labs</copyright>
-    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Conservation X Labs</copyright><atom:link href="https://docs.wildme.org/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/home/subheader/</link>
+      <link>https://docs.wildme.org/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/subheader/</guid>
-      <description>&lt;p&gt;Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you &lt;a href=&#34;http://localhost:1313/about&#34;&gt;measure&lt;/a&gt; yourself by the people who measure themselves by you. it only took me &lt;a href=&#34;http://localhost:1313/sidebar-right&#34;&gt;six days&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      <guid>https://docs.wildme.org/home/subheader/</guid>
+      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
     </item>
+    
   </channel>
 </rss>

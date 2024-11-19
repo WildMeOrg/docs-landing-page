@@ -2,25 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on Wild Me Docs</title>
-    <link>http://localhost:1313/home/downloads/</link>
+    <link>https://docs.wildme.org/home/downloads/</link>
     <description>Recent content in Downloads on Wild Me Docs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Conservation X Labs</copyright>
-    <atom:link href="http://localhost:1313/home/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Conservation X Labs</copyright><atom:link href="https://docs.wildme.org/home/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>http://localhost:1313/home/downloads/download1/</link>
+      <link>https://docs.wildme.org/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      
+      <guid>https://docs.wildme.org/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
+    
     <item>
       <title>Download HUGO template</title>
-      <link>http://localhost:1313/home/downloads/download2/</link>
+      <link>https://docs.wildme.org/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      
+      <guid>https://docs.wildme.org/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
+    
   </channel>
 </rss>

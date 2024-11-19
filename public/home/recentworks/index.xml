@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent works on Wild Me Docs</title>
-    <link>http://localhost:1313/home/recentworks/</link>
+    <link>https://docs.wildme.org/home/recentworks/</link>
     <description>Recent content in Recent works on Wild Me Docs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Conservation X Labs</copyright>
-    <atom:link href="http://localhost:1313/home/recentworks/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Conservation X Labs</copyright><atom:link href="https://docs.wildme.org/home/recentworks/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

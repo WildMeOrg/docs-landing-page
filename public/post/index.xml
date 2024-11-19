@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wild Me Docs</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://docs.wildme.org/post/</link>
     <description>Recent content in Posts on Wild Me Docs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Conservation X Labs</copyright>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Conservation X Labs</copyright><atom:link href="https://docs.wildme.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scout ToDo lists</title>
-      <link>http://localhost:1313/post/scout/</link>
+      <link>https://docs.wildme.org/post/scout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/scout/</guid>
-      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;scout&#34;&gt;Scout&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Annotation interface updates&lt;/li&gt;&#xA;&lt;li&gt;COCO format support&lt;/li&gt;&#xA;&lt;li&gt;ML models and marketplace&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+      <guid>https://docs.wildme.org/post/scout/</guid>
+      <description>Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!
+Scout  Annotation interface updates COCO format support ML models and marketplace  </description>
     </item>
+    
     <item>
       <title>Wildbook ToDo lists</title>
-      <link>http://localhost:1313/post/wildbook/</link>
+      <link>https://docs.wildme.org/post/wildbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/wildbook/</guid>
-      <description>&lt;p&gt;Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!&lt;/p&gt;&#xA;&lt;h2 id=&#34;wildbook&#34;&gt;Wildbook&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Public API support&lt;/li&gt;&#xA;&lt;li&gt;Data integrity tools&lt;/li&gt;&#xA;&lt;li&gt;Front end updated to React&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wildbook-export&#34;&gt;Wildbook Export&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;More formats&lt;/li&gt;&#xA;&lt;li&gt;Greater customization of exports&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+      <guid>https://docs.wildme.org/post/wildbook/</guid>
+      <description>Are you interested in helping out? Here&amp;rsquo;s a brief list of the top priorities we have across the different tools! We&amp;rsquo;d love your help in any way you could contribute, be it development, testing, docs, or financial. See you in the stacks!
+Wildbook  Public API support Data integrity tools Front end updated to React  Wildbook Export  More formats Greater customization of exports  </description>
     </item>
+    
   </channel>
 </rss>

@@ -2,32 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Wild Me Docs</title>
-    <link>http://localhost:1313/home/services/</link>
+    <link>https://docs.wildme.org/home/services/</link>
     <description>Recent content in Documentation on Wild Me Docs</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Conservation X Labs</copyright>
-    <atom:link href="http://localhost:1313/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Conservation X Labs</copyright><atom:link href="https://docs.wildme.org/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wildbook</title>
-      <link>http://localhost:1313/home/services/service3/</link>
+      <link>https://docs.wildme.org/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service3/</guid>
+      
+      <guid>https://docs.wildme.org/home/services/service3/</guid>
       <description>&lt;p&gt;Matching images of individual animals across time and space. Collaborating with researchers and citizen scientists across the globe. Understanding populations, social behaviors, genetics, and more.&lt;/p&gt;</description>
     </item>
+    
     <item>
       <title>Scout</title>
-      <link>http://localhost:1313/home/services/service1/</link>
+      <link>https://docs.wildme.org/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service1/</guid>
+      
+      <guid>https://docs.wildme.org/home/services/service1/</guid>
       <description>&lt;p&gt;Cleaning up large image sets. Annotating images both automatically and manually. Collaborating in local teams with an eye towards performance. Understanding species count, land usage, human-animal interactions, and more.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Codex</title>
-      <link>http://localhost:1313/home/services/service2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service2/</guid>
-      <description>&lt;p&gt;An experimental rewrite of the Wildbook re-ID platform. Planned for full sunset by the end of 2024. The repo is available for you to create your own project from, but we recommend you use Wildbook instead.&lt;/p&gt;</description>
-    </item>
+    
   </channel>
 </rss>

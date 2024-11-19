@@ -2,40 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/home/services/</loc>
+    <loc>https://docs.wildme.org/home/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/downloads/download1/</loc>
+    <loc>https://docs.wildme.org/home/downloads/download1/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/service3/</loc>
+    <loc>https://docs.wildme.org/home/services/service3/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/recentworks/</loc>
+    <loc>https://docs.wildme.org/home/recentworks/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/service1/</loc>
+    <loc>https://docs.wildme.org/home/services/service1/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/service2/</loc>
+    <loc>https://docs.wildme.org/home/downloads/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/downloads/</loc>
+    <loc>https://docs.wildme.org/home/clients/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/clients/</loc>
+    <loc>https://docs.wildme.org/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://docs.wildme.org/home/subheader/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/subheader/</loc>
+    <loc>https://docs.wildme.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://docs.wildme.org/home/downloads/download2/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/downloads/download2/</loc>
+    <loc>https://docs.wildme.org/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://docs.wildme.org/post/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://docs.wildme.org/post/scout/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/scout/</loc>
+    <loc>https://docs.wildme.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://docs.wildme.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/post/wildbook/</loc>
+    <loc>https://docs.wildme.org/post/wildbook/</loc>
   </url>
 </urlset>
